@@ -121,7 +121,7 @@ npm run dev
 ## Charts
 
 ![Charts](screenshots/IncomeVsExpense.png)
-![Charts](screenshots/MonthlyExpense .png)
+![Charts](screenshots/MonthlyExpense.png)
 ---
 
 ## Future Enhancements
