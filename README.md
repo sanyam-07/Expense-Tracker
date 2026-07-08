@@ -115,13 +115,13 @@ npm run dev
 
 ![Dashboard](screenshots/Dashboard.png)
 ![Dashboard](screenshots/AddTransaction.png)
-![Dashboard](screenshots/Transaction.png)
+![Dashboard](screenshots/Transactions.png)
 ---
 
 ## Charts
 
 ![Charts](screenshots/IncomeVsExpense.png)
-![Charts](screenshots/MonthlyExpense.png)
+![Charts](screenshots/MonthlyExpense .png)
 ---
 
 ## Future Enhancements
