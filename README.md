@@ -97,9 +97,32 @@ npm install
 npm run dev
 ```
 
-## Screenshots
+# Screenshots
 
-Add your project screenshots here.
+## Login Page
+
+![Login](screenshots/LoginPage.png)
+
+---
+
+## Register Page
+
+![Register](screenshots/RegisterPage.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/AddTransaction.png)
+![Dashboard](screenshots/Transaction.png)
+---
+
+## Charts
+
+![Charts](screenshots/IncomeVsExpense.png)
+![Charts](screenshots/MonthlyExpense.png)
+---
 
 ## Future Enhancements
 
